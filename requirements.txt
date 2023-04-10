@@ -1,0 +1,26 @@
+fastapi
+uvicorn
+starlette
+azure-core==1.26.1
+azure-storage-blob==12.14.1
+azure-identity
+pyodbc==4.0.35
+twilio==7.16.0
+pytz
+sqlalchemy
+pydantic[dotenv]
+asyncpg
+passlib
+pyjwt
+python-jose[cryptography]
+bcrypt
+python-multipart
+fastapi-mail
+Pillow
+
+# dev
+
+black==22.6.0
+flake8==5.0.4
+pyflakes==2.5.0
+isort==5.10.1
